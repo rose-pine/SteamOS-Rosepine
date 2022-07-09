@@ -1,0 +1,10 @@
+
+{
+"name": "Rosepine",
+"version": "1.0",
+"inject": {
+"Rosepine.css": [
+"SP", "MainMenu", "QuickAccess"
+]
+}
+}
