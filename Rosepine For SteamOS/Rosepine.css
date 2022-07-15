@@ -374,3 +374,7 @@ button.DialogButton {
 .virtualkeyboard_KeyboardKey_2KhPX .virtualkeyboard_ShiftedLabel_3FZuk {
 	color: var(--KeyboardTextColour) !important;
 }.footericons_Background_yjs9m {  fill: #fff !important; }
+/* MISC (Mostly Fixes) */
+.DialogBody librarysettings_LibrarySettings_2nsOY {
+    background: var(--BackgroundDark) !important;
+}
