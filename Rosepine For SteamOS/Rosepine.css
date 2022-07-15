@@ -375,9 +375,9 @@ button.DialogButton {
 	color: var(--KeyboardTextColour) !important;
 }.footericons_Background_yjs9m {  fill: #fff !important; }
 /* MISC (Mostly Fixes) */
-.gamepaddialog_GamepadDialogContent_3joNk {
+.BasicUI .gamepaddialog_GamepadDialogContent_3joNk {
     background: var(--BackgroundDark) !important;
 }
-.lockscreen_Container_3rFFU {
+.BasicUI .lockscreen_Container_3rFFU {
     background: var(--BackgroundDark) !important;
 }
