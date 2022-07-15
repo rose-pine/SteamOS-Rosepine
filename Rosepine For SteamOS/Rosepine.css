@@ -375,6 +375,6 @@ button.DialogButton {
 	color: var(--KeyboardTextColour) !important;
 }.footericons_Background_yjs9m {  fill: #fff !important; }
 /* MISC (Mostly Fixes) */
-.gamepaddialog_GamepadDialogContent_3joNk DialogContent _DialogLayout gamepadpagedsettings_PagedSettingsDialog_PageContent_wIOLO  Panel Focusable {
+.gamepaddialog_GamepadDialogContent_3joNk .DialogContent _DialogLayout .gamepadpagedsettings_PagedSettingsDialog_PageContent_wIOLO  .Panel .Focusable {
     background: var(--BackgroundDark) !important;
 }
