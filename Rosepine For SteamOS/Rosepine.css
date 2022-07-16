@@ -191,6 +191,15 @@ color: #e0def4 !important;
     background: linear-gradient(to right, var(--Accent), var(--Accent)) !important;
 }
 /* Settings */
+
+.gamepadpagedsettings_PagedSettingDialog_ContentColumn_3JPle {
+    background: var(--BackgroundDark) !important;
+	background-color: rgb(38, 35, 58) !important;
+}
+.gamepadpagedsettings_PagedSettingsDialog_PageListColumn_2EZ3o {
+    background: var(--BackgroundLight) !important;
+	background-color: rgb(25, 23, 36) !important;
+}
 .gamepadpagedsettings_PagedSettingsDialog_PageListColumn_1d6VI {
     background: var(--BackgroundRegular) !important;
     border-color: var(--BorderLight) var(--BorderDark) var(--BorderDark) var(--BorderLight);
@@ -373,17 +382,7 @@ button.DialogButton {
 
 /* MISC (Mostly Fixes) */
 
-.gamepadpagedsettings_PagedSettingDialog_ContentColumn_3JPle {
-    background: var(--BackgroundDark) !important;
-	background-color: rgb(38, 35, 58) !important;
-}
-
 .lockscreen_Container_3rFFU {
     background: var(--BackgroundDark) !important;
 	background-color: rgb(38, 35, 58) !important;
-}
-
-.gamepadpagedsettings_PagedSettingsDialog_PageListColumn_2EZ3o {
-    background: var(--BackgroundLight) !important;
-	background-color: rgb(25, 23, 36) !important;
 }
