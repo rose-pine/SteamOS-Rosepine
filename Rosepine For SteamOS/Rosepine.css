@@ -17,12 +17,6 @@
 font-family: "noto-sans" !important;
 color: #e0def4 !important;
 }
-/* Lock Screen */
-
-.lockscreen_Container_3rFFU {
-    background: var(--BackgroundDark) !important;
-	background-color: rgb(38, 35, 58) !important;
-}
 
 /* Library */
 
@@ -109,6 +103,10 @@ color: #e0def4 !important;
 }
 /* Main Menu */
 
+.lockscreen_Container_3rFFU {
+    background: var(--BackgroundDark) !important;
+	background-color: rgb(38, 35, 58) !important;
+}
 .mainmenu_Menu_23IDi {
     background: var(--BackgroundDark) !important;
 }
