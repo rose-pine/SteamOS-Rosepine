@@ -259,10 +259,6 @@ button.DialogButton {
     background-color: var(--BackgroundLight) !important;
 }
 
-.BasicUI .librarysettings_LibrarySettings_2nsOY {
-    background: var(--BackgroundRegular) !important;
-}
-
 .BasicUI .contentmanagement_ContentManagement_3wk64 {
     background: var(--BackgroundRegular) !important;
 }
@@ -374,14 +370,22 @@ button.DialogButton {
 .virtualkeyboard_KeyboardKey_2KhPX .virtualkeyboard_ShiftedLabel_3FZuk {
 	color: var(--KeyboardTextColour) !important;
 }.footericons_Background_yjs9m {  fill: #fff !important; }
+
 /* MISC (Mostly Fixes) */
+
 .gamepadpagedsettings_PagedSettingDialog_ContentColumn_3JPle {
     background: var(--BackgroundDark) !important;
 	background-color: rgb(38, 35, 58) !important;
 }
+
 .lockscreen_Container_3rFFU {
     background: var(--BackgroundDark) !important;
 	background-color: rgb(38, 35, 58) !important;
+}
+
+.gamepadpagedsettings_PagedSettingsDialog_PageListColumn_2EZ3o {
+    background: var(--BackgroundLight) !important;
+	background-color: rgb(25, 23, 36) !important;
 }
 
 
