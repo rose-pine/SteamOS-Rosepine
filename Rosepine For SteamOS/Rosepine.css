@@ -377,8 +377,11 @@ button.DialogButton {
 /* MISC (Mostly Fixes) */
 .gamepadpagedsettings_PagedSettingDialog_ContentColumn_3JPle {
     background: var(--BackgroundDark) !important;
-    background-color: rgb(38, 35, 58) !important;
+	background-color: rgb(38, 35, 58) !important;
 }
-.BasicUI .lockscreen_Container_3rFFU {
+.lockscreen_Container_3rFFU {
     background: var(--BackgroundDark) !important;
+	background-color: rgb(38, 35, 58) !important;
 }
+
+
