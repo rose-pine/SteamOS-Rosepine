@@ -192,6 +192,9 @@ color: #e0def4 !important;
 }
 /* Settings */
 
+.BasicUI .librarysettings_LibrarySettings_2nsOY {
+	background: var(--BackgroundDark) !important;
+}
 .gamepadpagedsettings_PagedSettingDialog_ContentColumn_3JPle {
     background: var(--BackgroundDark) !important;
 	background-color: rgb(38, 35, 58) !important;
