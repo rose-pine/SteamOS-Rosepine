@@ -19,10 +19,6 @@ color: #e0def4 !important;
 }
 /* Library */
 
-.lockscreen_Container_3rFFU {
-    background: var(--BackgroundDark) !important;
-	background-color: rgb(38, 35, 58) !important;
-}
 .gamepadui_BasicHome_3LYP1.gamepadui_OpaqueBackground_b084m {
     background: var(--BackgroundDark) !important;
 }
@@ -105,6 +101,11 @@ color: #e0def4 !important;
     background-image: var(--BackgroundDark) !important;
 }
 /* Main Menu */
+
+.lockscreen_Container_3rFFU {
+    background: var(--BackgroundDark) !important;
+	background-color: rgb(38, 35, 58) !important;
+}
 .mainmenu_Menu_23IDi {
     background: var(--BackgroundDark) !important;
 }
