@@ -12,6 +12,10 @@
 --KeyboardDarkKeysColour: #e0def4 !important;
 --KeyboardTextColour: #e0def4 !important;
 --KeyboardAccentColour: #eb6f92 !important;
+.lockscreen_Container_3rFFU {
+    background: var(--BackgroundDark) !important;
+	background-color: rgb(38, 35, 58) !important;
+}
 }
 * {
 font-family: "noto-sans" !important;
@@ -382,10 +386,3 @@ button.DialogButton {
 .virtualkeyboard_KeyboardKey_2KhPX .virtualkeyboard_ShiftedLabel_3FZuk {
 	color: var(--KeyboardTextColour) !important;
 }.footericons_Background_yjs9m {  fill: #fff !important; }
-
-/* MISC (Mostly Fixes) */
-
-.lockscreen_Container_3rFFU {
-    background: var(--BackgroundDark) !important;
-	background-color: rgb(38, 35, 58) !important;
-}
