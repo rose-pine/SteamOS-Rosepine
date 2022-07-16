@@ -16,7 +16,7 @@
 1. Install [DeckBrew](https://github.com/SteamDeckHomebrew/decky-loader)
 2. Install SDH-CssLoader From the plugin Store.
 3. Enter Desktop Mode
-4. Download Theme Folder
+4. Download Theme Folder From Releases.
 5. Paste them into ` ~/homebrew/themes/ `
 6. Return to Game Mode
 7. Open the Quick Access Menu and go to CSS Loader
