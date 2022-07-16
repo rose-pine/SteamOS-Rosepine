@@ -20,6 +20,11 @@ color: #e0def4 !important;
 
 /* Library */
 
+.gamepaddialog_ModalPosition_30VHl>.gamepaddialog_GamepadDialogContent_3joNk {
+	background: var(--BackgroundDark) !important;
+	background-color: var(--BackgroundDark) !important;
+	border: var(--BorderDark) !important;
+}
 .gamepadui_BasicHome_3LYP1.gamepadui_OpaqueBackground_b084m {
     background: var(--BackgroundDark) !important;
 }
@@ -46,6 +51,12 @@ color: #e0def4 !important;
     border-color: var(--BorderLight) var(--BorderDark) var(--BorderDark) var(--BorderLight);
 }
 /* Header */
+
+.gamepaddialog_ModalPosition_30VHl>.gamepaddialog_GamepadDialogContent_3joNk {
+	background: var(--BackgroundDark) !important;
+	background-color: var(--BackgroundDark) !important;
+	border: var(--BorderDark) !important;
+}
 .searchbar_SearchBox_2a1-s {
     background: var(--BackgroundLight) !important;
 }
@@ -72,6 +83,12 @@ color: #e0def4 !important;
     background-color: transparent !important;
 }
 /* Game Page */
+
+.gamepaddialog_ModalPosition_30VHl>.gamepaddialog_GamepadDialogContent_3joNk {
+	background: var(--BackgroundDark) !important;
+	background-color: var(--BackgroundDark) !important;
+	border: var(--BorderDark) !important;
+}
 .appactionbutton_Green_3cI5T>.appactionbutton_ButtonChild_2AzIX {
     background: var(--BackgroundRegular) !important;
 }
@@ -91,6 +108,12 @@ color: #e0def4 !important;
     background-color: var(--BackgroundRegular) !important;
 }
 /* Footer */
+
+.gamepaddialog_ModalPosition_30VHl>.gamepaddialog_GamepadDialogContent_3joNk {
+	background: var(--BackgroundDark) !important;
+	background-color: var(--BackgroundDark) !important;
+	border: var(--BorderDark) !important;
+}
 .footer_BasicFooter_3T1iF {
     background: var(--BackgroundLight) !important;
     border-color: var(--BorderLight) var(--BorderDark) var(--BorderDark) var(--BorderLight) !important;
@@ -103,6 +126,11 @@ color: #e0def4 !important;
 }
 /* Main Menu */
 
+.gamepaddialog_ModalPosition_30VHl>.gamepaddialog_GamepadDialogContent_3joNk {
+	background: var(--BackgroundDark) !important;
+	background-color: var(--BackgroundDark) !important;
+	border: var(--BorderDark) !important;
+}
 .lockscreen_Container_3rFFU {
     background: var(--BackgroundDark) !important;
 	background-color: rgb(38, 35, 58) !important;
@@ -127,6 +155,12 @@ color: #e0def4 !important;
     background: var(--Accent);
 }
 /* Quick Access */
+
+.gamepaddialog_ModalPosition_30VHl>.gamepaddialog_GamepadDialogContent_3joNk {
+	background: var(--BackgroundDark) !important;
+	background-color: var(--BackgroundDark) !important;
+	border: var(--BorderDark) !important;
+}
 .quickaccessmenu_QuickAccessMenu_V0cr- {
     background: var(--BackgroundDark) !important;
 }
@@ -168,6 +202,12 @@ color: #e0def4 !important;
     fill: #fff !important;
 }
 /* Downloads */
+
+.gamepaddialog_ModalPosition_30VHl>.gamepaddialog_GamepadDialogContent_3joNk {
+	background: var(--BackgroundDark) !important;
+	background-color: var(--BackgroundDark) !important;
+	border: var(--BorderDark) !important;
+}
 .downloads_DownloadsPage_1bq4x {
     background: var(--BackgroundDark) !important;
 }
@@ -199,6 +239,11 @@ color: #e0def4 !important;
 }
 /* Settings */
 
+.gamepaddialog_ModalPosition_30VHl>.gamepaddialog_GamepadDialogContent_3joNk {
+	background: var(--BackgroundDark) !important;
+	background-color: var(--BackgroundDark) !important;
+	border: var(--BorderDark) !important;
+}
 .BasicUI .librarysettings_LibrarySettings_2nsOY {
 	background: var(--BackgroundDark) !important;
 }
