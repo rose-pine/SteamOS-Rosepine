@@ -1,17 +1,17 @@
 :root {
---BackgroundLight: #191724 !important; /* base */
---BackgroundRegular: #1f1d2e !important; /* Surface */
---BackgroundDark: #26233a !important; /* Overlay */
---BorderLight: #524f67 !important; /* Higlight High */
---BorderDark: #21202e !important; /* Highlight Low */
---Accent: #31748f !important; /* Pine */
---KeyboardBackgroundColour: #26233a !important; /* Overlay */
+--BackgroundLight: #faf4ed !important; /* base */
+--BackgroundRegular: #fffaf3 !important; /* Surface */
+--BackgroundDark: #f2e9e1 !important; /* Overlay */
+--BorderLight: #cecacd !important; /* Higlight High */
+--BorderDark: #f4ede8 !important; /* Highlight Low */
+--Accent: #286983 !important; /* Pine */
+--KeyboardBackgroundColour: #f2e9e1 !important; /* Overlay */
 --KeyboardPadding: 4px !important;
---KeyboardLightKeysColour: #908caa !important; /* Subtle */
---KeyboardRegularKeysColour: #e0def4 !important; /* Text */
---KeyboardDarkKeysColour: #e0def4 !important; /* Text */
---KeyboardTextColour: #e0def4 !important; /* Text */
---KeyboardAccentColour: #eb6f92 !important; /* Love */
+--KeyboardLightKeysColour: #797593 !important; /* Subtle */
+--KeyboardRegularKeysColour: #575279 !important; /* Text */
+--KeyboardDarkKeysColour: #575279 !important; /* Text */
+--KeyboardTextColour: #575279 !important; /* Text */
+--KeyboardAccentColour: #b4637a !important; /* Love */
 }
 * {
 font-family: "noto-sans" !important;

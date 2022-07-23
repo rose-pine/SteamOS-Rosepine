@@ -1,11 +1,11 @@
 :root {
---BackgroundLight: #191724 !important; /* base */
---BackgroundRegular: #1f1d2e !important; /* Surface */
---BackgroundDark: #26233a !important; /* Overlay */
---BorderLight: #524f67 !important; /* Higlight High */
---BorderDark: #21202e !important; /* Highlight Low */
---Accent: #31748f !important; /* Pine */
---KeyboardBackgroundColour: #26233a !important; /* Overlay */
+--BackgroundLight: #232136 !important; /* base */
+--BackgroundRegular: #2a273f !important; /* Surface */
+--BackgroundDark: #393552 !important; /* Overlay */
+--BorderLight: #56526e !important; /* Higlight High */
+--BorderDark: #2a283e !important; /* Highlight Low */
+--Accent: #3e8fb0 !important; /* Pine */
+--KeyboardBackgroundColour: #393552 !important; /* Overlay */
 --KeyboardPadding: 4px !important;
 --KeyboardLightKeysColour: #908caa !important; /* Subtle */
 --KeyboardRegularKeysColour: #e0def4 !important; /* Text */
