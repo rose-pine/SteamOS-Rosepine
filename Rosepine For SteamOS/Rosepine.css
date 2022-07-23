@@ -1,17 +1,17 @@
 :root {
---BackgroundLight: #191724 !important;
---BackgroundRegular: #1f1d2e !important;
---BackgroundDark: #26233a !important;
---BorderLight: #524f67 !important;
---BorderDark: #21202e !important;
---Accent: #31748f !important;
---KeyboardBackgroundColour: #26233a !important;
+--BackgroundLight: #191724 !important; /* base */
+--BackgroundRegular: #1f1d2e !important; /* Surface */
+--BackgroundDark: #26233a !important; /* Overlay */
+--BorderLight: #524f67 !important; /* Higlight High */
+--BorderDark: #21202e !important; /* Highlight Low */
+--Accent: #31748f !important; /* Pine */
+--KeyboardBackgroundColour: #26233a !important; /* Overlay */
 --KeyboardPadding: 4px !important;
---KeyboardLightKeysColour: #908caa !important;
---KeyboardRegularKeysColour: #e0def4 !important;
---KeyboardDarkKeysColour: #e0def4 !important;
---KeyboardTextColour: #e0def4 !important;
---KeyboardAccentColour: #eb6f92 !important;
+--KeyboardLightKeysColour: #908caa !important; /* Subtle */
+--KeyboardRegularKeysColour: #e0def4 !important; /* Text */
+--KeyboardDarkKeysColour: #e0def4 !important; /* Text */
+--KeyboardTextColour: #e0def4 !important; /* Text */
+--KeyboardAccentColour: #eb6f92 !important; /* Love */
 }
 * {
 font-family: "noto-sans" !important;
