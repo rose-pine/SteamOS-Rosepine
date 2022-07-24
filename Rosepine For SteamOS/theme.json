@@ -10,6 +10,7 @@
 ]
 },
     "patches": {
+        
         "Theme Color": {
             "default": "Rosepine",
             "Rosepine": {},
@@ -18,7 +19,9 @@
             },
             "Rosepine Dawn": {
                 "types/Dawn.css": ["QuickAccess", "SP", "MainMenu"]
-            },
+            }
+        },
+            
         "Keyboard": {
             "default": "Off",
             "Off": {},
