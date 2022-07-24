@@ -133,7 +133,7 @@ color: #e0def4 !important;
 }
 .lockscreen_Container_3rFFU {
     background: var(--BackgroundDark) !important;
-	background-color: rgb(38, 35, 58) !important;
+	background-color: var(--BackgroundDark) !important;
 }
 .mainmenu_Menu_23IDi {
     background: var(--BackgroundDark) !important;
@@ -249,11 +249,11 @@ color: #e0def4 !important;
 }
 .gamepadpagedsettings_PagedSettingDialog_ContentColumn_3JPle {
     background: var(--BackgroundDark) !important;
-	background-color: rgb(38, 35, 58) !important;
+	background-color: var(--BackgroundDark) !important;
 }
 .gamepadpagedsettings_PagedSettingsDialog_PageListColumn_2EZ3o {
     background: var(--BackgroundLight) !important;
-	background-color: rgb(25, 23, 36) !important;
+	background-color: var(--BackgroundLight) !important;
 }
 .gamepadpagedsettings_PagedSettingsDialog_PageListColumn_1d6VI {
     background: var(--BackgroundRegular) !important;
