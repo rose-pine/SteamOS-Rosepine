@@ -2,7 +2,7 @@
 {
 "name": "Rosepine For SteamOS",
 "author": "Rosepineorg",
-"version": "1.4",
+"version": "V1.5",
 "target": "System-Wide",
 "inject": {
 "Rosepine.css": [
