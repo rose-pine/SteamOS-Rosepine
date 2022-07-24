@@ -24,7 +24,7 @@
             "default": "Off",
             "Off": {},
             "Rosepine Keyboard": {
-                "types/Krosepine9.css": ["QuickAccess", "SP", "MainMenu"]
+                "types/Krosepine.css": ["QuickAccess", "SP", "MainMenu"]
             },
             "Moon Keyboard": {
                 "types/Kmoon.css": ["QuickAccess", "SP", "MainMenu"]
