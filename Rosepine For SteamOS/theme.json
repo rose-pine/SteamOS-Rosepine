@@ -1,7 +1,7 @@
 {
 "name": "Rosepine For SteamOS",
 "author": "Rosepineorg",
-"version": "1.5",
+"version": "V1.5",
 "target": "System-Wide",
 "inject": {
 "Rosepine.css": [
@@ -16,8 +16,8 @@
             "Rosepine Moon": {
                 "types/Moon.css": ["QuickAccess", "SP", "MainMenu"]
             },
-            "Rosepine Dawn": {
-                "types/Dawn.css": ["QuickAccess", "SP", "MainMenu"]
+            "Dawn (Check github for more info)": {
+                "types/disabled.css": ["QuickAccess", "SP", "MainMenu"]
             }
         },
             

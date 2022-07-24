@@ -6,10 +6,6 @@
 --BorderDark: #21202e !important; /* Highlight Low */
 --Accent: #31748f !important; /* Pine */
 }
-* {
-font-family: "noto-sans" !important;
-color: #e0def4 !important;
-}
 
 /* Library */
 
