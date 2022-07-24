@@ -2,6 +2,7 @@
 {
 "name": "Rosepine For SteamOS",
 "version": "1.4",
+"target": "System-Wide",
 "inject": {
 "Rosepine.css": [
 "SP", "MainMenu", "QuickAccess"
