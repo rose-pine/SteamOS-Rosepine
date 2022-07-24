@@ -16,7 +16,7 @@
             "Rosepine Moon": {
                 "types/Moon.css": ["QuickAccess", "SP", "MainMenu"]
             },
-            "Rosepine Dawn (DISABLED)": {
+            "Dawn (Check github for more info)": {
                 "types/disabled.css": ["QuickAccess", "SP", "MainMenu"]
             }
         },
