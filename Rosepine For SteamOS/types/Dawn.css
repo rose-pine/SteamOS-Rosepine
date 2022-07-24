@@ -5,17 +5,10 @@
 --BorderLight: #cecacd !important; /* Higlight High */
 --BorderDark: #f4ede8 !important; /* Highlight Low */
 --Accent: #286983 !important; /* Pine */
---KeyboardBackgroundColour: #f2e9e1 !important; /* Overlay */
---KeyboardPadding: 4px !important;
---KeyboardLightKeysColour: #797593 !important; /* Subtle */
---KeyboardRegularKeysColour: #575279 !important; /* Text */
---KeyboardDarkKeysColour: #575279 !important; /* Text */
---KeyboardTextColour: #575279 !important; /* Text */
---KeyboardAccentColour: #b4637a !important; /* Love */
 }
 * {
 font-family: "noto-sans" !important;
-color: #e0def4 !important;
+color: #000000 !important;
 }
 
 /* Library */
@@ -133,7 +126,7 @@ color: #e0def4 !important;
 }
 .lockscreen_Container_3rFFU {
     background: var(--BackgroundDark) !important;
-	background-color: rgb(38, 35, 58) !important;
+	background-color: var(--BackgroundDark) !important;
 }
 .mainmenu_Menu_23IDi {
     background: var(--BackgroundDark) !important;
@@ -249,11 +242,11 @@ color: #e0def4 !important;
 }
 .gamepadpagedsettings_PagedSettingDialog_ContentColumn_3JPle {
     background: var(--BackgroundDark) !important;
-	background-color: rgb(38, 35, 58) !important;
+	background-color: var(--BackgroundDark) !important;
 }
 .gamepadpagedsettings_PagedSettingsDialog_PageListColumn_2EZ3o {
     background: var(--BackgroundLight) !important;
-	background-color: rgb(25, 23, 36) !important;
+	background-color: var(--BackgroundLight) !important;
 }
 .gamepadpagedsettings_PagedSettingsDialog_PageListColumn_1d6VI {
     background: var(--BackgroundRegular) !important;
@@ -372,65 +365,4 @@ button.DialogButton {
 .gamepadslider_EditableValue_3aMli, .gamepadslider_FakeEditableValue_1iWWS {
     background: var(--BackgroundDark) !important;
 }
-}
-.virtualkeyboard_Keyboard_45rH7 {
-    gap: var(--KeyboardGaps) !important;
-    background: var(--KeyboardBackgroundColour) !important;
-    padding: var(--KeyboardPadding) !important;
-}
-
-.DefaultTheme {
-    --background-color: var(--KeyboardBackgroundColour) !important;
-    --key-action-button-glyph-color: var(--KeyboardLightKeysColour) !important;
-    --key-focused-action-button-left-color: var(--KeyboardRegularKeysColour) !important;
-    --key-focused-action-button-right-color: var(--KeyboardRegularKeysColour) !important;
-    --key-color: var(--KeyboardTextColour !important;
-    --key-background-color: var(--KeyboardRegularKeysColour) !important;
-    --key-shift-label-color: var(--KeyboardTextColour !important;
-    --key-focused-shift-label-color: var(--KeyboardDarkKeysColour) !important;
-    --key-focused-color: var(--KeyboardRegularKeysColour) !important;
-    --key-focused-background-color: var(--KeyboardTextColour !important;
-    --key-meta-color: var(--KeyboardTextColour !important;
-    --key-meta-background-color: var(--KeyboardDarkKeysColour) !important;
-    --key-tab-color: var(--KeyboardTextColour !important;
-    --key-tab-background-color: var(--KeyboardDarkKeysColour) !important;
-    --key-caps-color: var(--KeyboardTextColour !important;
-    --key-caps-background-color: var(--KeyboardDarkKeysColour) !important;
-    --key-shift-color: var(--KeyboardTextColour !important;
-    --key-shift-background-color: var(--KeyboardDarkKeysColour) !important;
-    --key-enter-color: var(--KeyboardTextColour !important;
-    --key-enter-background-color: var(--KeyboardDarkKeysColour) !important;
-    --key-enter-action-button-glyph-color: var(--KeyboardRegularKeysColour) !important;
-    --key-backspace-color: var(--KeyboardTextColour !important;
-    --key-backspace-background-color: var(--KeyboardDarkKeysColour) !important;
-    --key-spacebar-color: var(--KeyboardTextColour !important;
-    --key-spacebar-background-color: var(--KeyboardRegularKeysColour) !important;
-    --key-spacer-background-color: var(--KeyboardDarkKeysColour) !important;
-    --key-extendedkey-background-color: var(--KeyboardAccentColour) !important;
-    --key-extendedkey-color: var(--KeyboardTextColour !important;
-    --key-extendedkey-focused-background-color: var(--KeyboardTextColour !important;
-    --key-extendedkey-focused-color: var(--KeyboardRegularKeysColour) !important;
-    --key-extendedkey-hover-background-color: var(--KeyboardTextColour !important;
-    --key-extendedkey-hover-color: var(--KeyboardRegularKeysColour) !important;
-    --key-toggleon-background-color: var(--KeyboardAccentColour) !important;
-    --key-toggleon-color: var(--KeyboardTextColour !important;
-    --key-toggleoneshot-color: var(--KeyboardAccentColour) !important;
-    --key-emoji-category-background-color: transparent;
-    --key-emoji-category-highlight-background-color: var(--KeyboardLightKeysColour) !important;
-    --key-emoji-row-background-color: transparent;
-    --key-emoji-background-color: transparent;
-    --key-emoji-color: var(--KeyboardTextColour !important;
-    --key-emoji-focused-color: var(--KeyboardRegularKeysColour) !important;
-    --key-emoji-focused-background-color: #var(--KeyboardLightKeysColour) !important;
-    --key-touched-background-color: var(--KeyboardTextColour !important;
-    --key-touched-color: var(--KeyboardDarkKeysColour) !important;
-    --key-pointer-stroke-color: var(--KeyboardDarkKeysColour) !important;
-    --key-pointer-background-color: var(--KeyboardAccentColour) !important;
-    --key-deadkey-background-color: var(--KeyboardDarkKeysColour) !important;
-    --key-deadkeyinactive-color: var(--KeyboardTextColour !important;
-    --key-deadkeyactive-color: var(--KeyboardAccentColour) !important;
-}
-
-.virtualkeyboard_KeyboardKey_2KhPX .virtualkeyboard_ShiftedLabel_3FZuk {
-	color: var(--KeyboardTextColour) !important;
-}.footericons_Background_yjs9m {  fill: #fff !important; }
+.footericons_Background_yjs9m {  fill: #fff !important; }
