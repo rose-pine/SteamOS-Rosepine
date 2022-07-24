@@ -19,7 +19,6 @@
             "Rosepine Dawn": {
                 "types/Dawn.css": ["QuickAccess", "SP", "MainMenu"]
             },
-      "patches": {
         "Keyboard": {
             "default": "Off",
             "Off": {},
