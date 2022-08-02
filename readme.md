@@ -30,3 +30,4 @@
 ## Thanks to
 
 - [CarlTheObeseCat](https://github.com/CarlTheObeseCat)
+- [EMERALD](https://github.com/EMERALD0874)
