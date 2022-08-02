@@ -1,35 +1,32 @@
 {
-"name": "Rosepine For SteamOS",
-"author": "Rosepineorg",
-"version": "V1.6",
-"target": "System-Wide",
-"inject": {
-"Rosepine.css": [
-"SP", "MainMenu", "QuickAccess"
-]
-},
-    "patches": {
-        
-        "Theme Color": {
-            "default": "Rosepine",
-            "Rosepine": {},
-            "Rosepine Moon": {
-                "types/Moon.css": ["QuickAccess", "SP", "MainMenu"]
-            }
-        },
-            
-        "Keyboard": {
-            "default": "Off",
-            "Off": {},
-            "Rosepine Keyboard": {
-                "types/Krosepine.css": ["QuickAccess", "SP", "MainMenu"]
-            },
-            "Moon Keyboard": {
-                "types/Kmoon.css": ["QuickAccess", "SP", "MainMenu"]
-            },
-            "Dawn Keyboard": {
-                "types/Kdawn.css": ["QuickAccess", "SP", "MainMenu"]
-            }
-        }
+  "name": "Rosepine For SteamOS",
+  "author": "Rosepineorg",
+  "version": "V1.6",
+  "target": "System-Wide",
+  "inject": {
+    "Rosepine.css": ["SP", "MainMenu", "QuickAccess"]
+  },
+  "patches": {
+    "Theme Color": {
+      "default": "Rosepine",
+      "Rosepine": {},
+      "Rosepine Moon": {
+        "types/Moon.css": ["QuickAccess", "SP", "MainMenu"]
+      }
+    },
+
+    "Keyboard": {
+      "default": "Off",
+      "Off": {},
+      "Rosepine Keyboard": {
+        "types/Krosepine.css": ["QuickAccess", "SP", "MainMenu"]
+      },
+      "Moon Keyboard": {
+        "types/Kmoon.css": ["QuickAccess", "SP", "MainMenu"]
+      },
+      "Dawn Keyboard": {
+        "types/Kdawn.css": ["QuickAccess", "SP", "MainMenu"]
+      }
     }
+  }
 }
