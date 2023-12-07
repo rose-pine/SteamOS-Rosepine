@@ -5,6 +5,7 @@
   --BorderLight: #56526e !important; /* Higlight High */
   --BorderDark: #2a283e !important; /* Highlight Low */
   --Accent: #3e8fb0 !important; /* Pine */
+  --Text: #e0def4 !important; /* Text */
 }
 
 /* Library */
@@ -311,6 +312,9 @@ button.DialogButton {
   border-color: var(--BorderLight) var(--BorderDark) var(--BorderDark)
     var(--BorderLight);
   font: inherit;
+}
+button.DialogButton.gpfocus {
+  color: var(--Text) !important;
 }
 .basiccontextmenu_contextMenuItem_3PqLg {
   color: var(--Accent);
